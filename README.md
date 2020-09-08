@@ -1,5 +1,5 @@
 ### Hi there, I'm Grzegorz  👋
-<img align="right" src="https://github.com/GrzegorzZiemba/GrzegorzZiemba/blob/master/img/logo.png">
+# ![GrzegorzZiemba header](https://github.com/GrzegorzZiemba/GrzegorzZiemba/blob/master/img/logo.png)
 
 ## I'm newbie 😄 at Programming and love that there is a everyday learning in that job !
 - 🔭 I’m currently working on React Applications like todo [github]
