@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Header](<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/logo.png" width="30px">
+[![Header](<img src="https://raw.githubusercontent.com/GrzegorzZiemba/GrzegorzZiemba/master/logo.png" width="30px">
 )]
 
 
