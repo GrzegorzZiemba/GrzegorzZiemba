@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![Header](https://raw.githubusercontent.com/GrzegorzZiemba/<OWNER>/<OWNER>/readme_header.png "Header")](https://lh3.googleusercontent.com/ogw/ADGmqu8j6izprUpBBUsdCA2TRmMX6JOI-bRqUZnsQq-7=s192-c-mo)
+
+
+
 <!--
 **GrzegorzZiemba/GrzegorzZiemba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
