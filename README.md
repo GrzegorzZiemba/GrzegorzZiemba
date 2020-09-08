@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-[![Header](https://raw.githubusercontent.com/GrzegorzZiemba/<OWNER>/<OWNER>/readme_logo.png "Header")](https://lh3.googleusercontent.com/ogw/ADGmqu8j6izprUpBBUsdCA2TRmMX6JOI-bRqUZnsQq-7=s192-c-mo)
+[![Header](<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/logo.png" width="30px">
+)]
 
 
 
