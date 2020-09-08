@@ -8,8 +8,9 @@
 - 😄 Fun fact: One time ... Ok, maybe i will tell you later that story...
 
 <br />
----
-<br>
+
+
+
 [github]: https://github.com/GrzegorzZiemba/ToDoAppWithLogin
 
 ### ⚡ I fell in love in:  ⚡
@@ -23,7 +24,6 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <br />
----
 
 [![GrzegorzZiemba's github stats](https://github-readme-stats.vercel.app/api?username=GrzegorzZiemba&show_icons=true&theme=dracula)](https://github.com/GrzegorzZiemba/github-readme-stats)
 
