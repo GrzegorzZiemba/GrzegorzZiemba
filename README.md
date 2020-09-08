@@ -1,8 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Grzegorz  👋
 
-[![Header](<img src="https://raw.githubusercontent.com/GrzegorzZiemba/GrzegorzZiemba/logo.png" width="130px">
-)]
+## I'm newbie at Programming and love that there is a everyday learning in that job !
+- 🔭 I’m currently working on React Applications like todo [github]
+- 🌱 I’m currently learning React,
+- 📫 How to reach me: Just e-mail me ! gzgrzegorzziemba@gmail.com
+- 😄 Fun fact: One time ... Ok, maybe i will tell you later that story...
 
+<br />
+
+[github]: https://github.com/GrzegorzZiemba/ToDoAppWithLogin
 
 
 <!--
