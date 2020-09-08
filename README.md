@@ -22,7 +22,7 @@
 
 ---
 
-[![GrzegorzZiemba's github stats](https://github-readme-stats.vercel.app/api?username=GrzegorzZiemba)](https://github.com/anuraghazra/github-readme-stats)
+[![GrzegorzZiemba's github stats](https://github-readme-stats.vercel.app/api?username=GrzegorzZiemba&show_icons=true&theme=dracula)](https://github.com/GrzegorzZiemba/github-readme-stats)
 
 
 <!--
