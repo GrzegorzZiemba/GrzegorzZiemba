@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on React Applications like todo [github] also ⚡ job application page (STAY TUNNED FOR THAT !) ⚡
 - 🌱 I’m currently learning React,
 - 📫 How to reach me: Just e-mail me ! gzgrzegorzziemba@gmail.com
-- 😄 Fun fact: One time ... Ok, maybe i will tell you later that story...
+- 😄 Fun fact: One time ...or just visit my website https://grzegorzziemba.github.io/PortfolioWebsite/
 
 <br />
 
