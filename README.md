@@ -2,7 +2,7 @@
 <img align="right" src="https://github.com/GrzegorzZiemba/GrzegorzZiemba/blob/master/img/logo.png" />
 
 ## I'm newbie 😄 at Programming and love that there is a everyday learning in that job !
-- 🔭 I’m currently working on React Applications like todo [github] also ⚡ job application page (STAY TUNNED FOR THAT !) ⚡
+- 🔭 I’m currently working on React Application : Social one with chat ⚡ 
 - 🌱 I’m currently learning React,
 - 📫 How to reach me: Just e-mail me ! gzgrzegorzziemba@gmail.com
 - 😄 Fun fact: One time ...or just visit my website https://grzegorzziemba.github.io/PortfolioWebsite/oldones/index.html
