@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on React Application : Social one with chat ⚡ 
 - 🌱 I’m currently writing with React,
 - 📫 How to reach me: Just e-mail me ! gzgrzegorzziemba@gmail.com
-- 😄 Fun fact: One time ...or just visit my website https://grzegorzziemba.github.io/PortfolioWebsite/oldones/index.html
+- 😄 Fun fact: One time ...or just visit my new website https://email-like.web.app/ or old one https://grzegorzziemba.github.io/PortfolioWebsite/oldones/index.html
 
 <br />
 
