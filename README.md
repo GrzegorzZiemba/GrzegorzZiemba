@@ -3,7 +3,7 @@
 
 ## I'm newbie 😄 at Programming and love that there is a everyday learning in that job !
 - 🔭 I’m currently working on React Application : Social one with chat ⚡ 
-- 🌱 I’m currently learning React,
+- 🌱 I’m currently writing with React,
 - 📫 How to reach me: Just e-mail me ! gzgrzegorzziemba@gmail.com
 - 😄 Fun fact: One time ...or just visit my website https://grzegorzziemba.github.io/PortfolioWebsite/oldones/index.html
 
