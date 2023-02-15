@@ -2,8 +2,8 @@
 <img align="right" src="https://github.com/GrzegorzZiemba/GrzegorzZiemba/blob/master/img/logo.png" />
 
 ## I'm newbie 😄 at Programming and love that there is a everyday learning in that job !
-- 🔭 I’m currently working on React Application : Social one with chat ⚡ 
-- 🌱 I’m currently writing with React,
+
+- 🌱 I’m currently writing with Node & React & MongoDB,
 - 📫 How to reach me: Just e-mail me ! gzgrzegorzziemba@gmail.com
 - 😄 Just visit my new website https://email-like.web.app/ or old one https://grzegorzziemba.github.io/PortfolioWebsite/oldones/index.html
 
@@ -11,7 +11,6 @@
 
 
 
-[github]: https://github.com/GrzegorzZiemba/ToDoAppWithLogin
 
 ### ⚡ Working with:  ⚡
 
