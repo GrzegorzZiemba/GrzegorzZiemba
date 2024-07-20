@@ -1,9 +1,9 @@
-### Hi there, I'm Grzegorz  👋
+### Hi there, I'm Grzegorz  
 <img align="right" src="https://github.com/GrzegorzZiemba/GrzegorzZiemba/blob/master/img/logo.png" />
 
-## I'm newbie 😄 at Programming and love that there is a everyday learning in that job !
+## Programming is a everyday learning
 
-- 🌱 I’m currently writing with Node & React & MongoDB,
+- 🌱 JavaScript & Python
 - 📫 How to reach me: Just e-mail me ! gzgrzegorzziemba@gmail.com
 - 😄 Just visit my new website https://email-like.web.app/ or old one https://grzegorzziemba.github.io/PortfolioWebsite/oldones/index.html
 
