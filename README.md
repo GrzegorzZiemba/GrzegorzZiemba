@@ -1,5 +1,5 @@
 ### Hi there, I'm Grzegorz  
-<img align="right" src="https://github.com/GrzegorzZiemba/GrzegorzZiemba/blob/master/img/logo.png" />
+
 
 ## Programming is a everyday learning
 
